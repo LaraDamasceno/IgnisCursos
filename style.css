@@ -468,3 +468,41 @@ h3 {
   color: var(--orange-color);
 }
 
+/*=========================== COURSES ============================*/
+
+.courseModel {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+  
+}
+
+.courseModel h1{
+  text-align: left;
+}
+
+.courseModel-col {
+  flex-basis: 31%;
+  border-radius: 10px;
+  margin-bottom: 5%;
+  text-align: left;
+}
+
+.courseModel-col img {
+  width: 70%;
+  border-radius: 30px;
+  margin-left:15%;
+}
+
+.courseModel-col p {
+  text-align: center;
+  font-size:12px;
+  padding: 0;
+}
+
+.courseModel-col h3 {
+  margin-top: 16px;
+  margin-bottom: 15px;
+  text-align: center;
+}
